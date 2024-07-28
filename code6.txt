@@ -1,0 +1,10 @@
+Exercice6 crontab
+1.mkdir nom du dossier
+2.touch nom du fichier.sh
+3.curl -I https://www.google.com et diriger la sortie vers un fichier log avec >>
+4. Utilisez la commande chmod +x nom du fichier.sh.
+5. Lancez-le avec ./nom de votre fichier
+6. 0 * * * * /chemin/vers/curl_script.sh
+
+
+
